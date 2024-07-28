@@ -62,4 +62,5 @@ iex> code = """
    ...|
 """
 ```
-
+The colorised diff is shown below:
+![Colorised diff](images/diff.png)
